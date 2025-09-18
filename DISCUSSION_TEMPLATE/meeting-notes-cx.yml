@@ -1,0 +1,23 @@
+title: "[Meeting Notes CX] "
+body:  
+  - type: textarea
+    attributes:
+      label: "The timeline for the discussion:"
+  - type: textarea
+    attributes:
+      label: "What are the most important insights since last weekly?"
+  - type: textarea
+    attributes:
+      label: "Where do we stand in our timeline?"
+  - type: textarea
+    attributes:
+      label: "What are the most important topics discussed?"
+  - type: textarea
+    attributes:
+      label: "where are we?"
+  - type: textarea
+    attributes:
+      label: "What was decided?"
+  - type: textarea
+    attributes:
+      label: "Feelings:"
