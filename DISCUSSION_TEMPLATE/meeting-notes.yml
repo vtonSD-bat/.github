@@ -1,0 +1,20 @@
+title: "[Meeting Notes] "
+body:  
+  - type: textarea
+    attributes:
+      label: "Meeting Traktanden:"
+  - type: textarea
+    attributes:
+      label: "Meeting Details:"
+  - type: textarea
+    attributes:
+      label: "Wo stehen wir?"
+  - type: textarea
+    attributes:
+      label: "Welche Probleme haben wir?"
+  - type: textarea
+    attributes:
+      label: "Meeting Notes:"
+  - type: textarea
+    attributes:
+      label: "nächste Schritte:"
