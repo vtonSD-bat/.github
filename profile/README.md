@@ -4,7 +4,7 @@ This project is being carried out as part of the B.Sc. Data Science program at t
 ## Participants and Supervisors
 This project is being worked on by the following students:
 | Affiliation | Name                 | GitHub Handle                                                | 
-| ----------- | -------------------- | ------------------------------------------------------------ |  |
+| ----------- | -------------------- | ------------------------------------------------------------ |
 | bat         | Florian Baumgartner  | [@FloBaumgartner](https://github.com/FloBaumgartner)         |
 | bat         | Can-Elian Barth      | [@can020202](https://github.com/can020202)                   |
 
