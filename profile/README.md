@@ -1,6 +1,6 @@
 # Combining 2D Flow Matching and Gaussian Splatting for 3D Virtual Try-on
 This project is being carried out as part of the B.Sc. Data Science program at the University of Applied Sciences Northwestern Switzerland.
-The main repo with the Pipeline is 
+The main repo with the Pipeline is https://github.com/vtonFM-bat/vton3d-bat
 
 ## Participants and Supervisors
 This project is being worked on by the following students:
