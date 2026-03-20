@@ -1,4 +1,4 @@
-# Virtual Try On with Stable Diffusion
+# Combining 2D Flow Matching and Gaussian Splatting for 3D Virtual Try-on
 This project is being carried out as part of the B.Sc. Data Science program at the University of Applied Sciences Northwestern Switzerland.
 
 ## Participants and Supervisors
